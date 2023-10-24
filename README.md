@@ -4,3 +4,8 @@ Variables
 - Define “x“ variable has an integer value and variable “y” has a float value.
 - Assign One Value to Multiple Variables.
 - Assign Many Values to Multiple Variables.
+```python
+
+z = "spring"
+
+
